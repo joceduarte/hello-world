@@ -1,0 +1,5 @@
+n1 = int(input("informe o primeiro valor: "))
+n2 = int(input("informe o segundo valor: "))
+n3 = int(input("informe o terceiro valor: "))
+result = (n1 * n1) + (n2 * n2) + (n3 * n3)
+print("a soma dos quadrados dos numeros digitados acima é igual a: ", result)
